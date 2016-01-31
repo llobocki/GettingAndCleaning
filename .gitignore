@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
+
+*.txt
+*.csv
+
+UCI HAR Dataset/
+
